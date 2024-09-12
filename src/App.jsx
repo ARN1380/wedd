@@ -13,7 +13,7 @@ const App = () => {
           <source src={BackgroundVid} type="video/mp4" />
         </video>
         <div className="backdrop-blur-md backdrop-brightness-50 w-screen h-screen text-white flex items-center justify-center">
-          <img className="h-full py-20 min-w-fit animate-fade" src={weddPic} alt="not found" />
+          <img className="h-full py-20 px-4 min-w-fit animate-fade" src={weddPic} alt="not found" />
         </div>
       </div>
     </div>
